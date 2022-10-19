@@ -1,1 +1,1 @@
-My first readme
+Lesson on writting effective readme
